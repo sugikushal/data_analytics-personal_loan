@@ -1,4 +1,4 @@
-# sugikushal-data_analytics-personal_loan
+# data_analytics-personal_loan
 <img width="1467" alt="Screenshot 2024-03-26 at 3 28 19 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/29c05cff-2ea3-46e6-88d9-6f03a0cbcd68">
 <img width="1463" alt="Screenshot 2024-03-26 at 3 28 41 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/38ac90db-6705-43c2-9e7f-d2bbf2a931f1">
 <img width="1467" alt="Screenshot 2024-03-26 at 3 28 57 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/d39b076d-3fa2-4a36-9f83-e4ca3bddeba4">
