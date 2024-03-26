@@ -1,1 +1,19 @@
 # sugikushal-data_analytics-personal_loan
+<img width="1467" alt="Screenshot 2024-03-26 at 3 28 19 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/29c05cff-2ea3-46e6-88d9-6f03a0cbcd68">
+<img width="1463" alt="Screenshot 2024-03-26 at 3 28 41 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/38ac90db-6705-43c2-9e7f-d2bbf2a931f1">
+<img width="1467" alt="Screenshot 2024-03-26 at 3 28 57 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/d39b076d-3fa2-4a36-9f83-e4ca3bddeba4">
+<img width="1463" alt="Screenshot 2024-03-26 at 3 29 07 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/012c06ce-a06b-4301-b5b7-5e8824c198d8">
+<img width="1471" alt="Screenshot 2024-03-26 at 3 29 20 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/a3476691-f1f6-4124-8176-95f73959fe39">
+<img width="1461" alt="Screenshot 2024-03-26 at 3 29 30 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/20c945fd-64f1-4eb2-bd5e-482d5cfaadf0">
+<img width="1461" alt="Screenshot 2024-03-26 at 3 29 43 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/1f8ea678-a478-4d25-a936-97e9d8cdaa93">
+<img width="1459" alt="Screenshot 2024-03-26 at 3 29 57 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/5a61b0c4-79a3-424e-ad19-b33fe666869d">
+<img width="1465" alt="Screenshot 2024-03-26 at 3 30 07 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/a71416f2-063e-4995-8b79-9d0a4351a19f">
+<img width="1468" alt="Screenshot 2024-03-26 at 3 30 16 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/b714fb4e-da56-49c0-b744-d5bc285ed491">
+<img width="1465" alt="Screenshot 2024-03-26 at 3 30 29 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/9921d670-98ac-4364-be9b-70250c667def">
+<img width="1461" alt="Screenshot 2024-03-26 at 3 30 39 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/bed26efd-7799-4f90-b9e3-06b223d3aa98">
+<img width="1468" alt="Screenshot 2024-03-26 at 3 30 49 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/44700dad-99f2-4225-994d-4df7514831df">
+<img width="1464" alt="Screenshot 2024-03-26 at 3 31 00 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/3d4672d9-629b-49d0-95a9-0e5055291716">
+<img width="1466" alt="Screenshot 2024-03-26 at 3 31 11 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/befbd6b2-f2b7-400b-a2a7-8aee703c64f3">
+<img width="1464" alt="Screenshot 2024-03-26 at 3 31 28 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/584c8609-19c4-4543-98f3-b6d8d27dbd22">
+<img width="1461" alt="Screenshot 2024-03-26 at 3 31 39 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/a7cc7e4d-69db-40b9-901d-ec8b078131db">
+<img width="1464" alt="Screenshot 2024-03-26 at 3 31 48 PM" src="https://github.com/sugikushal/sugikushal-data_analytics-personal_loan/assets/37141821/24dc676b-bad1-4a71-a73e-533a00db0b73">
